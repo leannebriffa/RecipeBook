@@ -1,19 +1,28 @@
 Dairy:
-	240g Butter
+	270g Butter
 	355ml Heavy Cream
         350g Mascarpone Cheese
 	100g Shredded Parmesan Cheese
 	300ml whipping cream
+	70g fat-free condensed milk
+	1 cup half-and-half cream
+	113.4g mozzarella cheese
+	28g ricotta salata
 
 Vegetables:
 	5 Garlic Clove
+	1/2 pound sliced mushrooms
+	1/4 cup chopped onion
+	1 eggplant
 
 Fruit:
 	5 lemons
 	2 bananas
         7 Ripe Tomatoes
+	3 cups raspberries
 Meat:
         1 (3 1/2-lb) Beef Tenderloin Roast
+	2 cans chicken broth
 
 Fish:
 	200g Cooked prawns
@@ -27,6 +36,7 @@ Herbs and Spices:
         Black Pepper
         Basil Leaves
         Rosemary Sprigs
+	Basil
 
 Sauces:
 	75g light mayonaise
@@ -34,6 +44,7 @@ Sauces:
 	Worcestershire sauce
         Coarse-Grain
         Dijon Mustard
+	226.8g Nello's pizza sauce
 Pantry:
 	500g Fettuccine Pasta
 	360g digestive biscuits
@@ -46,3 +57,5 @@ Pantry:
         3 tbsp Extra-Virgin Oil
         1 teaspoon Balsamic Vinegar
         1/4 cup (60 ml) olive oil
+	8 tbsp all-purpose flour
+	453.6g pizza dough
