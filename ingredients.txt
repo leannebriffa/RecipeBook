@@ -1,58 +1,4 @@
 Dairy:
-<<<<<<< HEAD
-    150g pot natural yogurt
-    Vegetarian Parmesan-style Cheese
-    140g ricotta
-    6 eggs
-    1 tablespoon butter
-    1/4 cup crumbled feta or goat cheese
-
-Vegetables:
-    3 onions, chopped
-    4 garlic cloves, crushed
-    1 potato
-    200g young spinach
-    Parsley
-    16 miniature sweet peppers, halved lengthwise
-    5 chopped tomatoes
-
-
-Fruit:
-    3 bananas
-
-Herbs and Spices:
-    Nutmeg
-    Cumin
-    Basil
-    Salt
-    Pepper
-
-
-Pantry:
-    1600ml vegetable stock
-    2 baguettes
-    120g bag mixed watercress, rocket and spinach salad
-    20g pine nuts, toasted
-    Olive oil
-    400g tin chopped tomato
-    100g thin spaghetti, broken into short lengths
-    4 tbsp pesto
-    1 packet plain flour
-    1 can garbanzo beans
-    3 tablespoons cider vinegar
-    1 cup peanut butter 
-    1/2 cup maple syrup
-    1 teaspoon vanilla
-    2 Tablespoons cinnamon apple sauce
-    1/2 cup cocoa powder unsweetened
-    1 1/2 cups raw almond butter
-    1 cup pitted dates (packed)
-    1 cup almonds
-    1/4 cup unsweetened shredded coconut
-
-Freezer:
-    350g frozen mixed vegetable
-=======
        unsalted butter
        3-4 whole eggs
        2 cups shredded part-skim mozzarella cheese
@@ -82,4 +28,4 @@ Pantry:
         3-1/2 to 4 cups all-purpose flour
 Pasta:
        1 pound spaghetti pasta (or bucatini or fettuccine)
->>>>>>> 7d16defc9b34038a9d8195673317c26fda4e128e
+
