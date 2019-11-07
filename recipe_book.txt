@@ -1,55 +1,5 @@
-<<<<<<< HEAD
+
 -----------Pizza-Pasta Book-----------
-=======
-------------STARTERS-------------
-
-1)Prawn Cocktail
-
-	Ingredients:
-    		75g light mayonaise
-    		20g ketchup
-    		dash Worcestershire sauce
-    		200g cooked prawns
-    		sprinkle paprika
-    		lemon slices
-
-	Method:
-		Measure out the mayonnaise, ketchup and Worcestershire sauce and mix them together in a bowl.
-		Add the prawns and mix until completely coated, then cover and pop in the fridge until ready to serve.
-		To serve, place spoonfuls of the prawn cocktail mixture onto small lettuce leaves or use as a healthy baked potato topping.
-		Sprinkle over a little paprika and serve with fresh lemon slices on the side.
-
-2)Bruschetta:
-
-1.Blanch and peel the tomatoes: Bring 2 quarts of water to a boil. As the water is heating make shallow cuts in a cross pattern at the tip ends of the tomatoes (this will make the tomatoes easier to peel).
-Once the water is boiling, remove the pot from the heat. Put the tomatoes in the hot water and blanch for 1 minute.
-Remove with a slotted spoon and let sit until cool enough to handle. Then gently peel off the tomato skins. Cut out the stem base with a paring knife.
-Cut the tomatoes into halves or quarters and squeeze out most of the juices and seeds.
-
-2.Preheat oven to 450°F (230°C) with a rack in the top slot of the oven.
-
-3.Chop tomatoes, toss them with garlic, olive oil, vinegar, basil, salt and pepper: Finely chop the tomatoes and place them in a medium bowl. Mix in the minced garlic, 1 Tbsp extra virgin olive oil, and the balsamic vinegar.
-Stir in the thinly sliced basil and add salt and freshly ground black pepper, adding more to taste. Note, tomatoes love salt; you may need to add more than you expect.
-
-4.Toast the baguette slices: Use a bread knife to slice the baguette on the diagonal making half-inch thick slices. Brush one side of each slice with olive oil (a pastry brush helps here) and place olive oil-side down on a baking sheet or roasting pan.
-The baguette slices will toast best in the top rack of your oven, so you may need to work in batches to toast them all.
-When the oven has reached 450°F (230°C) place the slices in the oven on the top rack and toast for 5 to 6 minutes until lightly browned around the edges.
-
-5.Serve toasted bread with tomato mixture: Arrange the toasted bread on a platter, olive oil side facing up (the olive oil will help create a temporary barrier keeping the bread from getting soggy from the chopped tomatoes).
-Either serve the toasts plain with a bowl of the tomato bruschetta mixture on the side for people to top their own, or use a spoon to gently top each toasted bread slice with some of the tomato mixture. If you top each slice individually, do it right before serving.
-
-3)Mushroom Soup
-
-	Ingredients:
-		2 tablespoons butter
-		1/2 pound sliced fresh mushrooms
-		1/4 cup chopped onion
-		6 tablespoons all-purpose flour
-		1/2 teaspoon salt
-		1/8 teaspoon pepper
-		2 cans (14-1/2 ounces each) chicken broth
-		1 cup half-and-half cream
->>>>>>> parent of 647ca76... Updated Recipe Book
 
 1)Pasta Carbonara
 
@@ -130,11 +80,126 @@ Either serve the toasts plain with a bowl of the tomato bruschetta mixture on th
 
 		5.Turn down the heat and continue to stir to incorporate the cream and pesto. Salt and pepper to taste.
 
-<<<<<<< HEAD
------------CONCLUSION------------
-We hope you enjoyed this book!
-Coming up next is a Vegeterian Cookbook and a Pizza-Pasta Cookbook.
-We hope you interest yourself in these as well. 
-Thank you!
-=======
->>>>>>> parent of 647ca76... Updated Recipe Book
+
+------------Vegetarian Book-------------
+
+B)Supergreen soup with yogurt & pine nuts:
+
+	Ingredients:
+    		2 tsp olive oil
+    		1 onion, chopped
+    		2 garlic cloves, crushed
+    		1 potato
+    		600ml vegetable stock
+    		120g bag mixed watercress, rocket and spinach salad
+    		150g pot natural yogurt
+    		20g pine nuts, toasted
+	Method:
+		1.Heat the oil in a medium saucepan over a low-medium heat. Add the onion and a pinch of salt, then cook slowly, stirring occasionally, for 10 mins until softened but not coloured. Add the garlic and cook for 1 min more.
+		2.Tip in the potato followed by the veg stock. Simmer for 10-12 mins until the potato is soft enough that a cutlery knife will slide in easily. Add the bag of salad and let it wilt for 1 min, then blitz the soup in a blender until it’s completely smooth.
+		3.Serve with a dollop of yogurt, some toasted pine nuts and a drizzle of chilli oil, if you like.
+
+C)Minestrone:
+
+	Ingredients:
+    		1l hot vegetable stock
+    		400g tin chopped tomato
+    		100g thin spaghetti, broken into short lengths
+    		350g frozen mixed vegetable
+    		4 tbsp pesto
+    		Olive oil
+    		Vegetarian Parmesan-style Cheese
+	Method:
+		1.Bring the stock to the boil with the tomatoes, then add the spaghetti and cook for 6 mins or until done. A few minutes before the pasta is ready, add the vegetables and bring back to the boil. Simmer for 2 mins until everything is cooked.
+		2.Serve in bowls drizzled with pesto and oil, sprinkled with parmesan.
+
+VEGETARIAN MAINS:
+
+A)Spinach & ricotta gnocchi:
+
+	Ingredients:
+		200g young spinach
+		Parsley
+		1 garlic clove, crushed
+		140g ricotta
+		85g plain flour
+		2 eggs
+		100g freshly grated vegetarian Parmesan-style cheese
+		Nutmeg
+		olive oil
+		Rocket
+
+	Method:
+		1.Boil the kettle. Place the spinach in a large bowl and pour boiling water over it. Leave for 2 mins until wilted, then drain thoroughly. Leave to cool, then wrap a clean tea towel around the spinach. Hold it over the sink and squeeze out as much water as possible. Finely chop.
+		2.Place the spinach, parsley, garlic, ricotta, flour, eggs, cheese and a generous grating of nutmeg into a large bowl and season with salt and pepper. Use a fork to stir very thoroughly until everything is completely mixed. Using wet hands, form the mixture into walnut-size balls. Place on a large plate or tray and refrigerate for at least 30 mins.
+		3.When ready to cook, heat the oven to warm and bring a large pan of water to the boil. Reduce the heat to medium and drop in batches of about 8-10 gnocchi at a time. They will sink to the bottom, and when they rise to the top give them about 1 min more, then remove with a slotted spoon and keep warm while you cook the rest. Serve the gnocchi on warm plates drizzled with olive oil and scattered with rocket and more cheese.
+
+B)Garbanzo stuffed mini-peppers
+
+	Ingredients:
+		Cumin 
+		1 can garbanzo beans 
+		Cilantro leaves
+		3 tablespoons cider vinegar
+		Salt
+		16 miniature sweet peppers, halved lengthwise
+
+	Method:
+		1.In a dry small skillet, toast cumin seeds over medium heat until aromatic, 1-2 minutes, stirring frequently. Transfer to a food processor. Add garbanzo beans, cilantro, water, vinegar and salt; pulse until blended.
+		2.Spoon into pepper halves. Top with additional cilantro. Refrigerate until serving.
+
+C)Mediterranean Omelet
+
+	Ingredients:
+		4 large eggs
+    		Salt
+    		Pepper
+    		1 tablespoon butter
+    		1/4 cup crumbled feta or goat cheese
+    		1/4 cup chopped tomato
+    		1 green onion, chopped
+
+	Method:
+		1.In a small bowl, whisk eggs, water, salt and pepper until blended. In a large nonstick skillet, heat butter over medium-high heat. Pour in egg mixture. Mixture should set immediately at edge. As eggs set, push cooked portions toward the center, letting uncooked eggs flow underneath.
+		2.When eggs are thickened and no liquid egg remains, add cheese, tomato and green onion to 1 side. Fold omelet in half and cut into 2 portions; slide onto plates.
+
+VEGETARIAN DESERTS:
+
+A) Peanut Butter Cookies
+
+	Ingredients:
+		1 cup peanut butter 
+		1/2 cup maple syrup
+		1 teaspoon vanilla
+		2 Tablespoons cinnamon apple sauce
+		2 Tablespoons flour 
+
+	Method:
+		1.Preheat the oven 325 degrees F. Prepare a baking sheet by lining it with parchment paper or a silicon baking mat.
+		2.In a medium mixing bowl add the peanut butter, maple syrup, vanilla and apple sauce. Mix to combine (it will thicken as you mix) then add the flour and mix completely. Round into 12 round balls and place the cookie dough rounds on the baking pan 2 inches apart. With a fork press down to form lines on the tops of the cookies and to flatten. Bake for 14 minutes and let cool for about 2 minutes before transferring to a cooling rack to cool completely.
+
+B) Brownies
+
+	Ingredients:
+		3 large bananas 
+		1/2 cup cocoa powder unsweetened
+		1 1/2 cups raw almond butter
+
+	Method:
+		1.Preheat the oven to 350 degrees F. Prepare a 9-in. x 9-in. square baking dish by spraying it with cooking spray or rubbing coconut oil around the sides and bottom so the brownies do not stick.
+		2.In a large bowl mash the bananas with a fork until smooth. Add the almond butter and mix until smooth. Add the cocoa powder and optional cinnamon and blend until no visible cocoa powder is seen.
+		3.Pour the batter into the prepared baking pan and bake for 20-25 minutes or until set and slightly dark on the top. Remove from the oven and let cool completely before slicing.
+
+C) Salted Caramel Coconut Bliss Balls
+
+	Ingredients:
+    		1 cup pitted dates (packed)
+    		1 cup almonds 
+    		1/4 cup unsweetened shredded coconut
+    		1/4 tsp salt
+
+	Method:
+		1.Add the Medjool dates, almonds, shredded coconut and salt to a food processor and pulse until it forms into a sticky dough.
+		2.Using your hands, roll into bite-sized balls, and then roll into a plate of shredded coconut to top if desired.
+		3.Store in the fridge in an airtight container
+
