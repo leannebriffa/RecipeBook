@@ -1,4 +1,5 @@
 Dairy:
+<<<<<<< HEAD
     150g pot natural yogurt
     Vegetarian Parmesan-style Cheese
     140g ricotta
@@ -51,3 +52,34 @@ Pantry:
 
 Freezer:
     350g frozen mixed vegetable
+=======
+       unsalted butter
+       3-4 whole eggs
+       2 cups shredded part-skim mozzarella cheese
+       1/4 cup heavy cream
+Vegetables:
+	1-2 garlic cloves, minced, about 1 teaspoon 
+        1 small onion, chopped
+        1 can (15 ounces) tomato sauce
+	
+Meat:
+     1/2 pound pancetta or thick cut bacon, diced  
+     1/2 pound ground beef	
+
+Herbs and Spices:
+      Salt
+      Black Pepper
+      1 package (1/4 ounce) active dry yeast
+      3 teaspoons dried oregano
+      1 teaspoon dried basil
+      1 medium green pepper, diced
+      1 cup of Basic Basil Pesto recipe
+	
+Pantry:
+	3 tablespoon extra virgin olive oil
+        1 teaspoon sugar
+        1/4 cup canola oil
+        3-1/2 to 4 cups all-purpose flour
+Pasta:
+       1 pound spaghetti pasta (or bucatini or fettuccine)
+>>>>>>> 7d16defc9b34038a9d8195673317c26fda4e128e
